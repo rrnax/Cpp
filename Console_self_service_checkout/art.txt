@@ -1,0 +1,6 @@
+chleb 3.56 szt pieczywo 3
+pomidor 2.99 luz warzywa 8 1
+3bit 1.99 szt slodycze 12
+cytryna 0.99 luz owoce 8 0.1
+suszarka 79.99 szt agd 23
+jablko 2.39 luz owoce 8 1
