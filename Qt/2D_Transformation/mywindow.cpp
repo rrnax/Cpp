@@ -67,7 +67,7 @@ myWindow::myWindow(QWidget *parent)
 
     //Images
     img = new QImage(wide, high, QImage::Format_RGB32);
-    img1 = new QImage("xd.png");
+    img1 = new QImage("picture.png");
     back = new QImage(wide, high, QImage::Format_RGB32);
     toCompare = new QImage(wide, high, QImage::Format_RGB32);
     imgX = 30 + ((int)round(wide/2) - (int)round(img1->width()/2));
